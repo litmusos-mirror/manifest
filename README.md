@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/litmusos/manifest/blob/thirteen/Litmus.png">
+<img src="https://github.com/litmusos-mirror/manifest/blob/thirteen/Litmus.png">
 
 </p>
 
@@ -11,7 +11,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/litmusos/manifest -b thirteen
+repo init -u https://github.com/litmusos-mirror/manifest -b thirteen
 
 ```
 

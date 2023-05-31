@@ -24,7 +24,7 @@
           revision="thirteen" />
 
   <remote name="litmus"
-          fetch="https://github.com/litmusos"
+          fetch="https://github.com/litmusos-mirror"
           revision="thirteen" />
 
   <!-- External repos -->
